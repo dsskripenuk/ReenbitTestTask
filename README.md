@@ -1,0 +1,1 @@
+Sorry, but I didn't fully do point 8 and I didn't do point 9. You can see everything in the source code. I hope for further cooperation and promise to put all myself into my favorite work 
