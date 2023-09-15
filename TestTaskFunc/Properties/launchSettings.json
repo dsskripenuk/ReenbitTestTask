@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "TestTaskFunc": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7205"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 32976,
+      "useSSL": false
+    }
+  }
+}

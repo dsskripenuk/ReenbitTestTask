@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "type": "appInsights"
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "DefaultEndpointsProtocol=https;AccountName=dsskripenukbloobstorage;AccountKey=n/v7AM0pikR9opkaDqBG1xCaYrrPH8DUfUkCL1yJG3bfqFb5bvnCTxZVtcervlvE/56m/TCQMbxr+AStL+jqiQ==;EndpointSuffix=core.windows.net"
+    },
+    "secrets1": {
+      "type": "secrets"
+    }
+  }
+}

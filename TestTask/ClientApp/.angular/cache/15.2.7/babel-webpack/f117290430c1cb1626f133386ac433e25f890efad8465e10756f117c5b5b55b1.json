@@ -1,0 +1,1 @@
+{"ast":null,"code":"import ownerDocument from './owner-document';\nconst getWindow = element => ownerDocument(element).defaultView;\nexport default getWindow;","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

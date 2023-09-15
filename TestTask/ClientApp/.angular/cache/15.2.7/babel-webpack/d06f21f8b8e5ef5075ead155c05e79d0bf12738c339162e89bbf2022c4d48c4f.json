@@ -1,0 +1,1 @@
+{"ast":null,"code":"import offsetParent from './offset-parent';\nconst isBodyOffset = element => offsetParent(element) === element.ownerDocument.body;\nexport default isBodyOffset;","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
